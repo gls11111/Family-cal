@@ -1,0 +1,514 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude Split//Jack — School 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Jack — School 2026-27
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:Begin1-271-2026-08-10-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Begin 2026-2027 - Term 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2626-2026-08-20-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Elementary Picture Day
+DESCRIPTION:8:30AM Picture Day!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2615-2026-09-07-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Labor Day (No School)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2618-2026-09-17-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Ice Cream Social
+DESCRIPTION:Warrior Gym Parking Lot @ 6pm (after Varsity Volleyball games)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2617-2026-09-17-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:North Texas Giving Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End1-271-2026-09-18-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:End 2026-2027 - Term 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2619-2026-09-18-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:End Term 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:Begin2-271-2026-09-21-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Begin 2026-2027 - Term 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2620-2026-09-21-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Start of Term 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2621-2026-09-23-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:See You At the Pole
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2622-2026-10-02-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Homecoming
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2625-2026-10-12-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Columbus Day (No School)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End2-271-2026-10-23-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:End 2026-2027 - Term 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:Begin3-271-2026-10-26-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Begin 2026-2027 - Term 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End3-271-2026-12-04-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:End 2026-2027 - Term 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:Begin4-271-2027-01-05-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Begin 2026-2027 - Term 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End4-271-2027-02-12-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:End 2026-2027 - Term 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:Begin5-271-2027-02-15-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Begin 2026-2027 - Term 5
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End5-271-2027-04-02-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:End 2026-2027 - Term 5
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:Begin6-271-2027-04-05-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Begin 2026-2027 - Term 6
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End6-271-2027-05-07-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:End 2026-2027 - Term 6
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265785-2026-08-10-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:History — Welcome to Grade 4 History! We will start the year wit
+ h a hist...
+DESCRIPTION:Welcome to Grade 4 History! We will start the year with a hist
+ ory of the United States\, specifically looking at how the first people a
+ rrived in North America\, and identifying the Native Americans living whe
+ n the explorers reached the New World.\n\nWelcome to Grade 4 History! We 
+ will start the year with a history of the United States\, specifically lo
+ oking at how the first people arrived in North America\, and identifying 
+ the Native Americans living when the explorers reached the New World.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265767-2026-08-10-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Language Arts — Work on Your Brown Bag Biography. In the Brown B
+ ag\, you...
+DESCRIPTION:Work on Your Brown Bag Biography. In the Brown Bag\, you recei
+ ved on Mock Day\, place THREE words describing you and FOUR objects repre
+ senting something about who you are - interests\, hobbies\, sports\, favo
+ rite things\, memories\, places you love\, things you have achieved. You 
+ will share the contents of your Brown Bag in class tomorrow\, August 13th
+  . Work on the All About Me worksheet if you have time. It will be due on
+  Thursday\, August 15th. The Brown Bag Biography takes precedence. The Ba
+ ck to School Word Search is due by Thursday\, August 15th. *Be sure to ha
+ ve your Stuart Little novel with you tomorrow!\n\nWork on Your Brown Bag 
+ Biography. In the Brown Bag\, you received on Mock Day\, place THREE word
+ s describing you and FOUR objects representing something about who you ar
+ e - interests\, hobbies\, sports\, favorite things\, memories\, places yo
+ u love\, things you have achieved. You will share the contents of your Br
+ own Bag in class tomorrow\, August 13th . Work on the All About Me worksh
+ eet if you have time. It will be due on Thursday\, August 15th. The Brown
+  Bag Biography takes precedence. The Back to School Word Search is due by
+  Thursday\, August 15th. *Be sure to have your Stuart Little novel with y
+ ou tomorrow!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265773-2026-08-10-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Math — Welcome to Fourth-grade Math! I am looking forward to gui
+ ding you...
+DESCRIPTION:Welcome to Fourth-grade Math! I am looking forward to guiding 
+ you through this year as we learn the fourth-grade math concepts. Let's g
+ et started with some review! Activities Workbook: Complete p.2 (#7-20)\, 
+ p. 4 (#15-28)\, and page 6 (#17-30)\n\nWelcome to Fourth-grade Math! I am
+  looking forward to guiding you through this year as we learn the fourth-
+ grade math concepts. Let's get started with some review! Activities Workb
+ ook: Complete p.2 (#7-20)\, p. 4 (#15-28)\, and page 6 (#17-30)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265779-2026-08-10-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Science — Welcome to 4th-grade Science! I am excited to work thi
+ s year w...
+DESCRIPTION:Welcome to 4th-grade Science! I am excited to work this year w
+ ith a whole new edition of BJU's Science 4! The first unit is titled: Lif
+ e Science Structures and Functions. What do you think the word structure 
+ means? What do you think the word function means? Questions to think abou
+ t: What are some kinds of living things? What living things do you see in
+  the photo on page 3? (These are two 6 month old Komchatka brown bear cub
+ s playing at the shoreline in Russia. What are some of the functions of l
+ iving things?\n\nWelcome to 4th-grade Science! I am excited to work this 
+ year with a whole new edition of BJU's Science 4! The first unit is title
+ d: Life Science Structures and Functions. What do you think the word stru
+ cture means? What do you think the word function means? Questions to thin
+ k about: What are some kinds of living things? What living things do you 
+ see in the photo on page 3? (These are two 6 month old Komchatka brown be
+ ar cubs playing at the shoreline in Russia. What are some of the function
+ s of living things?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265786-2026-08-12-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:History — Today the students will read about the Revolutionary W
+ ar. Hist...
+DESCRIPTION:Today the students will read about the Revolutionary War. Hist
+ ory 4 Textbook: Read pages 8-13. This reading assignment covers a literat
+ ure segment on the Girl Patriot\, Dicey Langston. *I am giving the kids a
+  quiz tomorrow to expose them to the format. We will also be discussing s
+ tudy skills. You do not need to prepare the kids for the quiz. It will no
+ t count as a grade. Activities Manual: Complete pages 3-4\n\nToday the st
+ udents will read about the Revolutionary War. History 4 Textbook: Read pa
+ ges 8-13. This reading assignment covers a literature segment on the Girl
+  Patriot\, Dicey Langston. *I am giving the kids a quiz tomorrow to expos
+ e them to the format. We will also be discussing study skills. You do not
+  need to prepare the kids for the quiz. It will not count as a grade. Act
+ ivities Manual: Complete pages 3-4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265768-2026-08-12-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Language Arts — Handwriting: Complete Unit 1 Reviewing Manuscrip
+ t Letter...
+DESCRIPTION:Handwriting: Complete Unit 1 Reviewing Manuscript Letters (Pag
+ es: 6-9). Refresh students' ability to correctly form manuscript letters.
+  When asked to write a row\, please add 3 letters to complete the row. Sp
+ elling: Spelling Lesson #1: Short a and Long a. Ask what the short a soun
+ ds like. What types of letters usually follow a short vowel? How many dif
+ ferent ways can the long a sound be formed? Complete pages 4 - 5 and stud
+ y word List #1. There are two sets of homophones in the word list. Please
+  have your child identify the homophones on list #1\, and ask your child 
+ to present a sentence using them correctly orally. This lesson is a devia
+ tion from what I explained to you on Mock Day. Normally the first 2 spell
+ ing pages are assigned on Monday and the next two pages are completed in 
+ class on Tuesday\, however\, this week is a bit different. We completed p
+ ages 1-2 in class on Tuesday\, and pages 4-5 are to be completed today. T
+ omorrow we will have a practice test. It will not count for a grade. Just
+  practice! Reading: Complete chapter activities for Stuart Little Chapter
+ s 1&2. These worksheets were given to your child in class on Tuesday. Ple
+ ase check to see that their sentences start with capital letters\, the pr
+ onoun "I" is capitalized\, and that there is end punctuation. This assign
+ ment is due on Thursday\, August 17th. *Please remember to bring Stuart L
+ ittle with you to school tomorrow.\n\nHandwriting: Complete Unit 1 Review
+ ing Manuscript Letters (Pages: 6-9). Refresh students' ability to correct
+ ly form manuscript letters. When asked to write a row\, please add 3 lett
+ ers to complete the row. Spelling: Spelling Lesson #1: Short a and Long a
+ . Ask what the short a sounds like. What types of letters usually follow 
+ a short vowel? How many different ways can the long a sound be formed? Co
+ mplete pages 4 - 5 and study word List #1. There are two sets of homophon
+ es in the word list. Please have your child identify the homophones on li
+ st #1\, and ask your child to present a sentence using them correctly ora
+ lly. This lesson is a deviation from what I explained to you on Mock Day.
+  Normally the first 2 spelling pages are assigned on Monday and the next 
+ two pages are completed in class on Tuesday\, however\, this week is a bi
+ t different. We completed pages 1-2 in class on Tuesday\, and pages 4-5 a
+ re to be completed today. Tomorrow we will have a practice test. It will 
+ not count for a grade. Just practice! Reading: Complete chapter activitie
+ s for Stuart Little Chapters 1&2. These worksheets were given to your chi
+ ld in class on Tuesday. Please check to see that their sentences start wi
+ th capital letters\, the pronoun "I" is capitalized\, and that there is e
+ nd punctuation. This assignment is due on Thursday\, August 17th. *Please
+  remember to bring Stuart Little with you to school tomorrow.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265774-2026-08-12-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Math — Activities Workbook: Pages 1-6 Complete page 1 (ALL)\, p.
+  2 (1-6)...
+DESCRIPTION:Activities Workbook: Pages 1-6 Complete page 1 (ALL)\, p. 2 (1
+ -6)\, p. 3 (ALL)\, p. 4 (1-11)\, p. 5 (ALL) and p. 6 *The Place Value Cha
+ rts may seem confusing. To the Left: H = Hundred Thousands T = Ten Thousa
+ nds O = One Thousands To the Right: H = Hundreds T = Tens O = Ones\n\nAct
+ ivities Workbook: Pages 1-6 Complete page 1 (ALL)\, p. 2 (1-6)\, p. 3 (AL
+ L)\, p. 4 (1-11)\, p. 5 (ALL) and p. 6 *The Place Value Charts may seem c
+ onfusing. To the Left: H = Hundred Thousands T = Ten Thousands O = One Th
+ ousands To the Right: H = Hundreds T = Tens O = Ones
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265780-2026-08-12-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Science — Science 4 Textbook: Review pages 2-11 Activity Manual:
+  Complet...
+DESCRIPTION:Science 4 Textbook: Review pages 2-11 Activity Manual: Complet
+ e page 1 Lesson 1 Vocabulary : Write and define these words in your scien
+ ce composition notebook or create notecards. Science\, model\, nutrient\,
+  structure\, internal structure\, external structure\, function\, and bot
+ anist *Only the bolded vocabulary words in the book are assessed. The wor
+ ds listed in italics are not assessed. Quick Check: On a loose-leaf piece
+  of paper\, answer the two quick check questions at the bottom of p. 9. B
+ ring it to class tomorrow for credit.\n\nScience 4 Textbook: Review pages
+  2-11 Activity Manual: Complete page 1 Lesson 1 Vocabulary : Write and de
+ fine these words in your science composition notebook or create notecards
+ . Science\, model\, nutrient\, structure\, internal structure\, external 
+ structure\, function\, and botanist *Only the bolded vocabulary words in 
+ the book are assessed. The words listed in italics are not assessed. Quic
+ k Check: On a loose-leaf piece of paper\, answer the two quick check ques
+ tions at the bottom of p. 9. Bring it to class tomorrow for credit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265787-2026-08-14-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:History — Today the students will begin to read about the effect
+ s of the...
+DESCRIPTION:Today the students will begin to read about the effects of the
+  Civil War. History 4 Textbook: Read pages 21 - 23. Watch Video (9 minute
+ s): President Jackson\, The Cherokee\, & the Trail of Tears: History for 
+ Kids: https://www.youtube.com/watch?v=Qi339ZKbw1c\n\nToday the students w
+ ill begin to read about the effects of the Civil War. History 4 Textbook:
+  Read pages 21 - 23. Watch Video (9 minutes): President Jackson\, The Che
+ rokee\, & the Trail of Tears: History for Kids: https://www.youtube.com/w
+ atch?v=Qi339ZKbw1c
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265769-2026-08-14-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Language Arts — Take a bow! Week #1 will be completed after thes
+ e assign...
+DESCRIPTION:Take a bow! Week #1 will be completed after these assignments 
+ are completed! Reading: Re-read chapters 3-5 of Stuart Little\, then comp
+ lete the guided comprehension worksheets for the corresponding chapters. 
+ This can be worked on today and Monday. S end this assignment back to sch
+ ool with your child on Tuesday\, August 20th. English 4 Writing & Grammar
+ : Complete workbook pages 5-6: Four Types of Sentences - Declarative\, In
+ terrogative\, Imperative\, and Exclamatory\n\nTake a bow! Week #1 will be
+  completed after these assignments are completed! Reading: Re-read chapte
+ rs 3-5 of Stuart Little\, then complete the guided comprehension workshee
+ ts for the corresponding chapters. This can be worked on today and Monday
+ . S end this assignment back to school with your child on Tuesday\, Augus
+ t 20th. English 4 Writing & Grammar: Complete workbook pages 5-6: Four Ty
+ pes of Sentences - Declarative\, Interrogative\, Imperative\, and Exclama
+ tory
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265775-2026-08-14-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Math — Today is a review of comparing\, ordering\, and rounding 
+ numbers....
+DESCRIPTION:Today is a review of comparing\, ordering\, and rounding numbe
+ rs. Activities Workbook: Complete pages 7\, 9 & 11(ALL).\n\nToday is a re
+ view of comparing\, ordering\, and rounding numbers. Activities Workbook:
+  Complete pages 7\, 9 & 11(ALL).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265781-2026-08-14-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Science — Science 4 Textbook: Review pages 12-17 Activities Manu
+ al: Comp...
+DESCRIPTION:Science 4 Textbook: Review pages 12-17 Activities Manual: Comp
+ lete page 3 Vocabulary: taproot\, fibrous root\, xylem\, phloem\, trunk\,
+  bark\, crown and annual ring Quick Check: On a loose-leaf piece of paper
+ \, answer the two quick check questions at the bottom of p.17. Bring to c
+ lass on Tuesday\, August 20th for credit.\n\nScience 4 Textbook: Review p
+ ages 12-17 Activities Manual: Complete page 3 Vocabulary: taproot\, fibro
+ us root\, xylem\, phloem\, trunk\, bark\, crown and annual ring Quick Che
+ ck: On a loose-leaf piece of paper\, answer the two quick check questions
+  at the bottom of p.17. Bring to class on Tuesday\, August 20th for credi
+ t.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW266041-2026-08-19-jack@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:PE — MOVE 60 minutes a day It's important to have your kiddos MO
+ VE 60 minutes a day! :) (that's alot...but can be broken down into sectio
+ ns if that's easier for your family time!) Here are some option you guys 
+ can do together or have them do alone: Play outside (in the morning when 
+ it's cooler Swim (if you have access to a pool) Do youtube workout/yoga v
+ ideos Use the favs from when we were kids! Like Hula Hoops\, Jump Ropes\,
+  Skip Its\, Yard Games Riding a Bike/ Going on a family walk Exercise Sca
+ venger Hunt (find a scavenger hunt online and when they find each item on
+  the list\, they do a workout/exercise before moving to the next one)
+DESCRIPTION:It's important to have your kiddos MOVE 60 minutes a day! :) (
+ that's alot...but can be broken down into sections if that's easier for y
+ our family time!) Here are some option you guys can do together or have t
+ hem do alone: Play outside (in the morning when it's cooler Swim (if you 
+ have access to a pool) Do youtube workout/yoga videos Use the favs from w
+ hen we were kids! Like Hula Hoops\, Jump Ropes\, Skip Its\, Yard Games Ri
+ ding a Bike/ Going on a family walk Exercise Scavenger Hunt (find a scave
+ nger hunt online and when they find each item on the list\, they do a wor
+ kout/exercise before moving to the next one)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-20260811-duebrownbagbiography-jack@facts-split
+DTSTAMP:20260806T002448Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:DUE: Brown Bag Biography — share in class
+DESCRIPTION:3 words + 4 objects. Teachers text says "tomorrow\, August 13t
+ h" — recycled from 2024. Assignment posted Mon 8/10 saying share "tomor
+ row" on the Tuesday class day = 8/11. Bring Stuart Little novel too.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-20260813-dueallaboutmeworkshe-jack@facts-split
+DTSTAMP:20260806T002448Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:DUE: All About Me worksheet + Word Search + Stuart Little Ch. 1-2
+DESCRIPTION:Teacher wrote "Thursday\, August 15th" (8/15/2026 is a Saturda
+ y — stale 2024 date\; Thursday = 8/13) and "Thursday\, August 17th" for
+  Stuart Little Ch. 1-2 worksheets (8/17 is a Monday\; Thursday = 8/13). C
+ heck sentences for capitals and end punctuation.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-20260813-duesciencequickcheck-jack@facts-split
+DTSTAMP:20260806T002448Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:DUE: Science Quick Check (p. 9)
+DESCRIPTION:Answer the two quick check questions at the bottom of p. 9 on 
+ loose-leaf\, bring to class for credit. Assigned 8/12 "bring tomorrow."
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-20260818-duestuartlittlech35w-jack@facts-split
+DTSTAMP:20260806T002448Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:DUE: Stuart Little Ch. 3-5 worksheets + Science Quick Check (p. 17
+ )
+DESCRIPTION:AMBIGUOUS — teacher wrote "Tuesday\, August 20th" but 8/20/2
+ 026 is a Thursday. Tuesday = 8/18. Confirm with teacher\; could be Thu 8/
+ 20. Guided comprehension worksheets for ch. 3-5 plus Science p. 17 quick 
+ check on loose-leaf.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,979 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Claude Split//Lilyanne — School 2026-27//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lilyanne — School 2026-27
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:Begin1-271-2026-08-10-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Begin 2026-2027 - Term 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2626-2026-08-20-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Elementary Picture Day
+DESCRIPTION:8:30AM Picture Day!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2615-2026-09-07-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Labor Day (No School)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2618-2026-09-17-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Ice Cream Social
+DESCRIPTION:Warrior Gym Parking Lot @ 6pm (after Varsity Volleyball games)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2617-2026-09-17-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:North Texas Giving Day
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End1-271-2026-09-18-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:End 2026-2027 - Term 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2619-2026-09-18-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:End Term 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:Begin2-271-2026-09-21-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Begin 2026-2027 - Term 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2620-2026-09-21-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Start of Term 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2621-2026-09-23-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:See You At the Pole
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2622-2026-10-02-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Homecoming
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2625-2026-10-12-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Columbus Day (No School)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End2-271-2026-10-23-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:End 2026-2027 - Term 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:Begin3-271-2026-10-26-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Begin 2026-2027 - Term 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End3-271-2026-12-04-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:End 2026-2027 - Term 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:Begin4-271-2027-01-05-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Begin 2026-2027 - Term 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End4-271-2027-02-12-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:End 2026-2027 - Term 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:Begin5-271-2027-02-15-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:Begin 2026-2027 - Term 5
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End5-271-2027-04-02-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:End 2026-2027 - Term 5
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:Begin6-271-2027-04-05-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:Begin 2026-2027 - Term 6
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:End6-271-2027-05-07-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:End 2026-2027 - Term 6
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265757-2026-07-28-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:Spanish — Work at memorizing songs
+DESCRIPTION:Work at memorizing songs\n\nWork at memorizing songs
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265822-2026-08-10-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:History — Make sure your backpack is packed with your history bo
+ ok and t...
+DESCRIPTION:Make sure your backpack is packed with your history book and t
+ hat it has been covered in the contact paper provided on mock day. This i
+ s the yellow book that was sent home with the label\, "take to school" at
+ tached. This book will go back and forth to school and home each day.\n\n
+ Make sure your backpack is packed with your history book and that it has 
+ been covered in the contact paper provided on mock day. This is the yello
+ w book that was sent home with the label\, "take to school" attached. Thi
+ s book will go back and forth to school and home each day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265831-2026-08-10-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Language Arts — I cannot wait to see you tomorrow! Be sure your 
+ backpack...
+DESCRIPTION:I cannot wait to see you tomorrow! Be sure your backpack is pa
+ cked and ready to go! If you haven't already opened your gift from me\, n
+ ow is the time!\n\nI cannot wait to see you tomorrow! Be sure your backpa
+ ck is packed and ready to go! If you haven't already opened your gift fro
+ m me\, now is the time!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265807-2026-08-10-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Math — Be sure your student has their backpack packed and is rea
+ dy for s...
+DESCRIPTION:Be sure your student has their backpack packed and is ready fo
+ r school tomorrow!\n\nBe sure your student has their backpack packed and 
+ is ready for school tomorrow!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265813-2026-08-10-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:Science — Prepare for Science by placing their Science book. Thi
+ s book w...
+DESCRIPTION:Prepare for Science by placing their Science book. This book w
+ ill go back and forth each School Day.\n\nPrepare for Science by placing 
+ their Science book. This book will go back and forth each School Day.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265823-2026-08-12-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:History — Lead students in completing "Family and Community" act
+ ivity pa...
+DESCRIPTION:Lead students in completing "Family and Community" activity pa
+ ge 3. This page will be located behind the History divider in student bin
+ der. Discuss the following questions about what they read in class yester
+ day (textbook p 4-10) How did the New England Primer help families? What 
+ special job did God give Adam and Eve? How was Jesus different from all o
+ ther people?\n\nLead students in completing "Family and Community" activi
+ ty page 3. This page will be located behind the History divider in studen
+ t binder. Discuss the following questions about what they read in class y
+ esterday (textbook p 4-10) How did the New England Primer help families? 
+ What special job did God give Adam and Eve? How was Jesus different from 
+ all other people?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265832-2026-08-12-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Language Arts — Handwriting: Phonics: The phonics and reading pa
+ ges are ...
+DESCRIPTION:Handwriting: Phonics: The phonics and reading pages are togeth
+ er today and you will find them in their binder behind the Reading tab. R
+ eading: Complete pages 1-4 from the pages behind their reading tab. This 
+ should be review over letters T and i. Read for at least 20 minutes a day
+ -this can be reading independently or being read to at this point in the 
+ year. Spelling: Starts next week\n\nHandwriting: Phonics: The phonics and
+  reading pages are together today and you will find them in their binder 
+ behind the Reading tab. Reading: Complete pages 1-4 from the pages behind
+  their reading tab. This should be review over letters T and i. Read for 
+ at least 20 minutes a day-this can be reading independently or being read
+  to at this point in the year. Spelling: Starts next week
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265808-2026-08-12-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Math — Review math pages done on Tuesday (in class) to prepare f
+ or workt...
+DESCRIPTION:Review math pages done on Tuesday (in class) to prepare for wo
+ rktext pages today. These should be in your student's math section of the
+ ir binder. Using your Math 1 Worktext\, guide your student in completing 
+ pages 3-6. On page six at the top\, you will just call out an ordinal pos
+ ition and have your student circle the character in that position. Be sur
+ e you are helping your student learn to navigate their math books. The Ma
+ th Worktext is in color and only worked on at home. The pages behind thei
+ r math divider (in black and white) will only be worked on in class and u
+ sed to review at home. Complete Daily Math (on the back of the Daily Lang
+ uage) Day 2-please only complete Day 2-we will complete days 1 and 3 IN C
+ LASS\, together. This will be due on Tuesday for a test grade.\n\nReview 
+ math pages done on Tuesday (in class) to prepare for worktext pages today
+ . These should be in your student's math section of their binder. Using y
+ our Math 1 Worktext\, guide your student in completing pages 3-6. On page
+  six at the top\, you will just call out an ordinal position and have you
+ r student circle the character in that position. Be sure you are helping 
+ your student learn to navigate their math books. The Math Worktext is in 
+ color and only worked on at home. The pages behind their math divider (in
+  black and white) will only be worked on in class and used to review at h
+ ome. Complete Daily Math (on the back of the Daily Language) Day 2-please
+  only complete Day 2-we will complete days 1 and 3 IN CLASS\, together. T
+ his will be due on Tuesday for a test grade.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW266013-2026-08-12-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:PE — Have students practice their Animal Workouts we learned Day
+  1! ((ha...
+DESCRIPTION:Have students practice their Animal Workouts we learned Day 1!
+  ((have them do each move at least 3 times for 10 seconds each)) -Crab Wa
+ lking -Bear Crawling -Bunny Hop (one foot and then both) -Frog Hops\n\nHa
+ ve students practice their Animal Workouts we learned Day 1! ((have them 
+ do each move at least 3 times for 10 seconds each)) -Crab Walking -Bear C
+ rawling -Bunny Hop (one foot and then both) -Frog Hops
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265814-2026-08-12-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:Science — On Science Activity Manual p. 2: read Mark 12:30-31. I
+ n the fi...
+DESCRIPTION:On Science Activity Manual p. 2: read Mark 12:30-31. In the fi
+ rst line of the verse\, Jesus tells us what the first commandment is. Wha
+ t is it? How are we to love God? What is the second commandment? Read stu
+ dent text pages 2 -7. Complete Science activity p. 5-6 located in Science
+  divider of binders.\n\nOn Science Activity Manual p. 2: read Mark 12:30-
+ 31. In the first line of the verse\, Jesus tells us what the first comman
+ dment is. What is it? How are we to love God? What is the second commandm
+ ent? Read student text pages 2 -7. Complete Science activity p. 5-6 locat
+ ed in Science divider of binders.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265824-2026-08-14-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:History — No activity manual page. Go back and read Lesson 3 wit
+ h your s...
+DESCRIPTION:No activity manual page. Go back and read Lesson 3 with your s
+ tudent and discuss the following questions: Define Role and who made fami
+ ly members to have roles? How do family members help their family?\n\nNo 
+ activity manual page. Go back and read Lesson 3 with your student and dis
+ cuss the following questions: Define Role and who made family members to 
+ have roles? How do family members help their family?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265833-2026-08-14-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Language Arts — Handwriting: Phonics: You should see an "All Abo
+ ut Me" b...
+DESCRIPTION:Handwriting: Phonics: You should see an "All About Me" banner 
+ piece in their binder. This is their first test grade for Phonics! You ca
+ n decorate it however they want to-print pictures\, cut them from magazin
+ es\, draw them\, etc...we want to be sure we are completing our work in a
+  neat manner\, so take time and encourage your student to really do their
+  best. They will be graded on creativity\, neatness and completeness. Thi
+ s will be due August 20th. Reading: Complete pages 5-8 from the pages beh
+ ind their reading tab. This should be review over letters S and N. Read f
+ or at least 20 minutes a day-this can be reading independently or being r
+ ead to at this point in the year. Spelling: Starts next week\n\nHandwriti
+ ng: Phonics: You should see an "All About Me" banner piece in their binde
+ r. This is their first test grade for Phonics! You can decorate it howeve
+ r they want to-print pictures\, cut them from magazines\, draw them\, etc
+ ...we want to be sure we are completing our work in a neat manner\, so ta
+ ke time and encourage your student to really do their best. They will be 
+ graded on creativity\, neatness and completeness. This will be due August
+  20th. Reading: Complete pages 5-8 from the pages behind their reading ta
+ b. This should be review over letters S and N. Read for at least 20 minut
+ es a day-this can be reading independently or being read to at this point
+  in the year. Spelling: Starts next week
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265809-2026-08-14-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Math — Review math pages done on Thursday (in class) to prepare 
+ for work...
+DESCRIPTION:Review math pages done on Thursday (in class) to prepare for w
+ orktext pages today. Using your Math 1 Worktext-handed out on mock day\, 
+ guide your student in completing pages 7-10. Be sure you are helping your
+  student learn to navigate their math books. The Math Worktext is in colo
+ r and only worked on at home. The pages behind their math binder (in blac
+ k and white) will only be worked on in class and used to review at home. 
+ Complete Daily Math (on the back of the Daily Language) Day 4-please only
+  complete Day 2 and 4 at home-we will complete days 1 and 3 IN CLASS\, to
+ gether. This will be due on Tuesday for a test grade.\n\nReview math page
+ s done on Thursday (in class) to prepare for worktext pages today. Using 
+ your Math 1 Worktext-handed out on mock day\, guide your student in compl
+ eting pages 7-10. Be sure you are helping your student learn to navigate 
+ their math books. The Math Worktext is in color and only worked on at hom
+ e. The pages behind their math binder (in black and white) will only be w
+ orked on in class and used to review at home. Complete Daily Math (on the
+  back of the Daily Language) Day 4-please only complete Day 2 and 4 at ho
+ me-we will complete days 1 and 3 IN CLASS\, together. This will be due on
+  Tuesday for a test grade.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265815-2026-08-14-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Science — Go for a nature walk and use the page "Summer nature w
+ alk" fou...
+DESCRIPTION:Go for a nature walk and use the page "Summer nature walk" fou
+ nd in your binder to describe things you can explore with your senses.\n\
+ nGo for a nature walk and use the page "Summer nature walk" found in your
+  binder to describe things you can explore with your senses.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265825-2026-08-17-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:History — Complete Week 1 in your History Journal. Journals came
+  home on...
+DESCRIPTION:Complete Week 1 in your History Journal. Journals came home on
+  Thursday. Take time to thoroughly read the first few pages of the histor
+ y journal packet. This will help to explain the format of history journal
+  entries for the rest of the year.\n\nComplete Week 1 in your History Jou
+ rnal. Journals came home on Thursday. Take time to thoroughly read the fi
+ rst few pages of the history journal packet. This will help to explain th
+ e format of history journal entries for the rest of the year.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265834-2026-08-17-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Language Arts — Handwriting: Phonics: Complete p. 9-10 in the ph
+ onics wo...
+DESCRIPTION:Handwriting: Phonics: Complete p. 9-10 in the phonics worktext
+  pages behind their phonics divider in the binder. Reading: Introduce the
+  first reader-Sunny Lane by walking through and looking at the pictures. 
+ Complete p. 11 behind their reading divider. Read for at least 20 minutes
+  a day-this can be reading independently or being read to at this point i
+ n the year. Spelling:\n\nHandwriting: Phonics: Complete p. 9-10 in the ph
+ onics worktext pages behind their phonics divider in the binder. Reading:
+  Introduce the first reader-Sunny Lane by walking through and looking at 
+ the pictures. Complete p. 11 behind their reading divider. Read for at le
+ ast 20 minutes a day-this can be reading independently or being read to a
+ t this point in the year. Spelling:
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265810-2026-08-17-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Math — Your first Math test is tomorrow! To prepare for your tes
+ t\, comp...
+DESCRIPTION:Your first Math test is tomorrow! To prepare for your test\, c
+ omplete the review on p. 11 and 12 in their worktext (not in their binder
+ s). Be sure your student is confident in these skills and prepared for th
+ eir test. We will have a short review before the test\, but the knowledge
+  should already be there and just reinforced at that point. Not only is t
+ he review a good tool for you to assess their preparedness\, it is also i
+ n the exact format of the test and stands as another way to instill confi
+ dence. Daily Math is due tomorrow! Make sure all sections are filled in a
+ nd ready to be turned in. Instructions for p. 12- Circle the 4th person\,
+  put a box around the 1st person and underline the 3rd person.\n\nYour fi
+ rst Math test is tomorrow! To prepare for your test\, complete the review
+  on p. 11 and 12 in their worktext (not in their binders). Be sure your s
+ tudent is confident in these skills and prepared for their test. We will 
+ have a short review before the test\, but the knowledge should already be
+  there and just reinforced at that point. Not only is the review a good t
+ ool for you to assess their preparedness\, it is also in the exact format
+  of the test and stands as another way to instill confidence. Daily Math 
+ is due tomorrow! Make sure all sections are filled in and ready to be tur
+ ned in. Instructions for p. 12- Circle the 4th person\, put a box around 
+ the 1st person and underline the 3rd person.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265816-2026-08-17-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Science — Using Activity Manual p. 1-2 review the Bible verses a
+ ssociate...
+DESCRIPTION:Using Activity Manual p. 1-2 review the Bible verses associate
+ d with this chapter and discuss their meaning and their relation to what 
+ we will be learning in this science chapter.\n\nUsing Activity Manual p. 
+ 1-2 review the Bible verses associated with this chapter and discuss thei
+ r meaning and their relation to what we will be learning in this science 
+ chapter.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265826-2026-08-19-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:History — Lead students in completing Activity Manual page 7 - 9
+ . Read p...
+DESCRIPTION:Lead students in completing Activity Manual page 7 - 9. Read p
+  13 - 17 (we also read this in class yesterday) and discuss the following
+  questions about what they read: Where do families in big cities live? Wh
+ at about families who live outside of big cities? How do children who liv
+ e outside of big cities play differently than children who live in big ci
+ ties? What types of things are a part of a culture?\n\nLead students in c
+ ompleting Activity Manual page 7 - 9. Read p 13 - 17 (we also read this i
+ n class yesterday) and discuss the following questions about what they re
+ ad: Where do families in big cities live? What about families who live ou
+ tside of big cities? How do children who live outside of big cities play 
+ differently than children who live in big cities? What types of things ar
+ e a part of a culture?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265835-2026-08-19-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Language Arts — Handwriting: Phonics: All of the phonics pages f
+ rom now ...
+DESCRIPTION:Handwriting: Phonics: All of the phonics pages from now on wil
+ l be in the Phonics and English Activities book you received on Mock Day 
+ that says "Keep this book at home". You will no longer be using the pages
+  behind their phonics divider at home-these will only be completed in cla
+ ss. Complete pages 1-4 in the Phonics and English Activities book. Readin
+ g: Re-read "Twins" in their reader. We read it in class yesterday so they
+  should be familiar. Complete p. 10 from their reading pages in their bin
+ der behind the reading tab. Read for at least 20 minutes a day-this can b
+ e reading independently or being read to at this point in the year. Spell
+ ing: You received their spelling book on Mock Day\, this book will stay a
+ t home. Today you will begin working on List 1 by completing page 2.\n\nH
+ andwriting: Phonics: All of the phonics pages from now on will be in the 
+ Phonics and English Activities book you received on Mock Day that says "K
+ eep this book at home". You will no longer be using the pages behind thei
+ r phonics divider at home-these will only be completed in class. Complete
+  pages 1-4 in the Phonics and English Activities book. Reading: Re-read "
+ Twins" in their reader. We read it in class yesterday so they should be f
+ amiliar. Complete p. 10 from their reading pages in their binder behind t
+ he reading tab. Read for at least 20 minutes a day-this can be reading in
+ dependently or being read to at this point in the year. Spelling: You rec
+ eived their spelling book on Mock Day\, this book will stay at home. Toda
+ y you will begin working on List 1 by completing page 2.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265811-2026-08-19-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Math — Complete Daily Math-Day 2 Go over concepts missed on Ch. 
+ 1 Test t...
+DESCRIPTION:Complete Daily Math-Day 2 Go over concepts missed on Ch. 1 Tes
+ t to ensure the skills are mastered. We move quickly and we will build on
+  these skills all year long. Complete the Kindergarten Review on page 13 
+ in their worktext.\n\nComplete Daily Math-Day 2 Go over concepts missed o
+ n Ch. 1 Test to ensure the skills are mastered. We move quickly and we wi
+ ll build on these skills all year long. Complete the Kindergarten Review 
+ on page 13 in their worktext.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW266014-2026-08-19-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:PE — Have students practice animal moves (they can choose 3-4 to
+  show yo...
+DESCRIPTION:Have students practice animal moves (they can choose 3-4 to sh
+ ow you) and 10 reps for each\, preferably 2-3 rounds\n\nHave students pra
+ ctice animal moves (they can choose 3-4 to show you) and 10 reps for each
+ \, preferably 2-3 rounds
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265817-2026-08-19-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Science — Re-read p. 13-16 in Science book and complete activity
+  manual ...
+DESCRIPTION:Re-read p. 13-16 in Science book and complete activity manual 
+ p. 9-10.\n\nRe-read p. 13-16 in Science book and complete activity manual
+  p. 9-10.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265827-2026-08-21-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:History — Re-read pages 18 - 19 and lead students in completing 
+ Activity...
+DESCRIPTION:Re-read pages 18 - 19 and lead students in completing Activity
+  Manual page 15. Discuss the following questions about what they read: Wh
+ at does an address tell us? What is a landmark?\n\nRe-read pages 18 - 19 
+ and lead students in completing Activity Manual page 15. Discuss the foll
+ owing questions about what they read: What does an address tell us? What 
+ is a landmark?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265836-2026-08-21-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Language Arts — Handwriting: Phonics: Complete p. 5-6 from Phoni
+ cs and E...
+DESCRIPTION:Handwriting: Phonics: Complete p. 5-6 from Phonics and English
+  Activities book at home-these are not the pages in their binder. Reading
+ : Re-read Rosa Was It and complete p. 13. Read for at least 20 minutes a 
+ day-this can be reading independently or being read to at this point in t
+ he year. Spelling: Complete p. 3\n\nHandwriting: Phonics: Complete p. 5-6
+  from Phonics and English Activities book at home-these are not the pages
+  in their binder. Reading: Re-read Rosa Was It and complete p. 13. Read f
+ or at least 20 minutes a day-this can be reading independently or being r
+ ead to at this point in the year. Spelling: Complete p. 3
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265812-2026-08-21-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Math — Complete Daily Math-Day 4 Review math pages from class on
+  Thursda...
+DESCRIPTION:Complete Daily Math-Day 4 Review math pages from class on Thur
+ sday to determine skills needing attention. Complete p. 14-18 in their Ma
+ th worktext.\n\nComplete Daily Math-Day 4 Review math pages from class on
+  Thursday to determine skills needing attention. Complete p. 14-18 in the
+ ir Math worktext.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265818-2026-08-21-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Science — Re-read Science book p. 17-21 and complete activity ma
+ nual p. 13.
+DESCRIPTION:Re-read Science book p. 17-21 and complete activity manual p. 
+ 13.\n\nRe-read Science book p. 17-21 and complete activity manual p. 13.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265828-2026-08-24-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:History — Homework for Monday: Complete Week 2 in your History J
+ ournal.
+DESCRIPTION:Homework for Monday: Complete Week 2 in your History Journal.\
+ n\nHomework for Monday: Complete Week 2 in your History Journal.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265837-2026-08-24-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Language Arts — Handwriting: Phonics: Complete p. 7-8 in phonics
+  book at...
+DESCRIPTION:Handwriting: Phonics: Complete p. 7-8 in phonics book at home 
+ Reading: Re-read Rosa Was It and do p. 14 behind the reading divider. Rea
+ d for at least 20 minutes a day-this can be reading independently or bein
+ g read to at this point in the year. Spelling: Take a list 1 pre-test. Th
+ e actual test will follow this format: I will say the word\, use it in a 
+ sentence\, say it again. They will write the word only.\n\nHandwriting: P
+ honics: Complete p. 7-8 in phonics book at home Reading: Re-read Rosa Was
+  It and do p. 14 behind the reading divider. Read for at least 20 minutes
+  a day-this can be reading independently or being read to at this point i
+ n the year. Spelling: Take a list 1 pre-test. The actual test will follow
+  this format: I will say the word\, use it in a sentence\, say it again. 
+ They will write the word only.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265897-2026-08-24-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Math — There will be times when you will need to teach a concept
+  on a ho...
+DESCRIPTION:There will be times when you will need to teach a concept on a
+  homeschool day. Today is one of those days! You will be teaching and ass
+ essing knowledge for lesson 9. This lesson is a review on numbers 15 and 
+ 16. Your student may also need a reminder about how to read a pictograph.
+  Important things to remember are to look at each row and write the numbe
+ r of items at the end. Then you can go back and compare the information t
+ o answer the questions. A review of odd vs even is also addressed on thes
+ e pages. Complete pages 19 and 20 to determine if skills need more practi
+ ce. I have included the review pages (17-18) for lesson 9 if your student
+  needs extra practice today or before the Ch 2 test on Thursday.\n\nThere
+  will be times when you will need to teach a concept on a homeschool day.
+  Today is one of those days! You will be teaching and assessing knowledge
+  for lesson 9. This lesson is a review on numbers 15 and 16. Your student
+  may also need a reminder about how to read a pictograph. Important thing
+ s to remember are to look at each row and write the number of items at th
+ e end. Then you can go back and compare the information to answer the que
+ stions. A review of odd vs even is also addressed on these pages. Complet
+ e pages 19 and 20 to determine if skills need more practice. I have inclu
+ ded the review pages (17-18) for lesson 9 if your student needs extra pra
+ ctice today or before the Ch 2 test on Thursday.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265819-2026-08-24-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Science — Review for chapter 1 test using Science activity manua
+ l p. 18....
+DESCRIPTION:Review for chapter 1 test using Science activity manual p. 18.
+  These pages are located behind the science divider in your student's bin
+ der. Be sure to leave this completed page in their binder as we will need
+  it to complete p. 17 in class on Tuesday\, August 26.\n\nReview for chap
+ ter 1 test using Science activity manual p. 18. These pages are located b
+ ehind the science divider in your student's binder. Be sure to leave this
+  completed page in their binder as we will need it to complete p. 17 in c
+ lass on Tuesday\, August 26.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265829-2026-08-26-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:History — Read p 23-25 in Family and Community textbook and lead
+  student...
+DESCRIPTION:Read p 23-25 in Family and Community textbook and lead student
+ s in completing Activity pg 19: Family Rules. Discuss the following quest
+ ions about what they read: What is a rule and why should we obey them? Do
+  all families have the same rules? Is it ok for different families to hav
+ e different rules?\n\nRead p 23-25 in Family and Community textbook and l
+ ead students in completing Activity pg 19: Family Rules. Discuss the foll
+ owing questions about what they read: What is a rule and why should we ob
+ ey them? Do all families have the same rules? Is it ok for different fami
+ lies to have different rules?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265838-2026-08-26-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Language Arts — Handwriting: Phonics: Complete p. 9-10 in phonic
+ s book a...
+DESCRIPTION:Handwriting: Phonics: Complete p. 9-10 in phonics book at home
+  Reading: Re-read Two Hens and do p. 15 behind the reading divider. Read 
+ for at least 20 minutes a day-this can be reading independently or being 
+ read to at this point in the year. Spelling: List 2 p. 4\n\nHandwriting: 
+ Phonics: Complete p. 9-10 in phonics book at home Reading: Re-read Two He
+ ns and do p. 15 behind the reading divider. Read for at least 20 minutes 
+ a day-this can be reading independently or being read to at this point in
+  the year. Spelling: List 2 p. 4
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265899-2026-08-26-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Math — Complete Daily Math Week 3 day 2. Chapter 2 test is tomor
+ row! Com...
+DESCRIPTION:Complete Daily Math Week 3 day 2. Chapter 2 test is tomorrow! 
+ Complete pages 21-24 to be sure your student understand concepts from les
+ sons 10/11. In preparation for tomorrow's test\, complete the review on p
+ . 25-26. There will only be a short review before the test is administere
+ d.\n\nComplete Daily Math Week 3 day 2. Chapter 2 test is tomorrow! Compl
+ ete pages 21-24 to be sure your student understand concepts from lessons 
+ 10/11. In preparation for tomorrow's test\, complete the review on p. 25-
+ 26. There will only be a short review before the test is administered.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265820-2026-08-26-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Science — Go over your student's Ch. 1 test\, correcting any err
+ ors and ...
+DESCRIPTION:Go over your student's Ch. 1 test\, correcting any errors and 
+ discussing concepts missed. Using Science activities p. 19- read and begi
+ n to memorize Genesis 1:28. We will be using pretzels in class on Thursda
+ y for a science experiment. Let me know if there are any allergies/intole
+ rances that would keep your student from participating.\n\nGo over your s
+ tudent's Ch. 1 test\, correcting any errors and discussing concepts misse
+ d. Using Science activities p. 19- read and begin to memorize Genesis 1:2
+ 8. We will be using pretzels in class on Thursday for a science experimen
+ t. Let me know if there are any allergies/intolerances that would keep yo
+ ur student from participating.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265830-2026-08-28-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:History — Re-read pages 26-27: Families in History (We read this
+  in clas...
+DESCRIPTION:Re-read pages 26-27: Families in History (We read this in clas
+ s on Thursday) Lead student in completing Avivity Manual pg. 23. Discuss 
+ the following questions about pages 23 -27 (Rules\, Comparing Families in
+  History): What do rules tell us? Who makes the rules for a family? What 
+ things are the same and different about the pictures of the people in the
+  kitchen on page 27? What things do we notice about how a kitchen might l
+ ook today compared to how it might have looked in the drawing?\n\nRe-read
+  pages 26-27: Families in History (We read this in class on Thursday) Lea
+ d student in completing Avivity Manual pg. 23. Discuss the following ques
+ tions about pages 23 -27 (Rules\, Comparing Families in History): What do
+  rules tell us? Who makes the rules for a family? What things are the sam
+ e and different about the pictures of the people in the kitchen on page 2
+ 7? What things do we notice about how a kitchen might look today compared
+  to how it might have looked in the drawing?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265839-2026-08-28-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Language Arts — Handwriting: Phonics: Reading: (Engage section f
+ rom TE p...
+DESCRIPTION:Handwriting: Phonics: Reading: (Engage section from TE p. 27).
+  Complete The End on p. 21 in the reader. Complete p. 17 behind the readi
+ ng divider. Read for at least 20 minutes a day-this can be reading indepe
+ ndently or being read to at this point in the year. Spelling: List 2 p. 5
+ \n\nHandwriting: Phonics: Reading: (Engage section from TE p. 27). Comple
+ te The End on p. 21 in the reader. Complete p. 17 behind the reading divi
+ der. Read for at least 20 minutes a day-this can be reading independently
+  or being read to at this point in the year. Spelling: List 2 p. 5
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265821-2026-08-28-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Science — Read Science book p. 22-27 and complete Science Activi
+ ties p. 22.
+DESCRIPTION:Read Science book p. 22-27 and complete Science Activities p. 
+ 22.\n\nRead Science book p. 22-27 and complete Science Activities p. 22.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265904-2026-09-02-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Math — Complete p. 29-32 in their math worktext. For page 31: Us
+ e the gr...
+DESCRIPTION:Complete p. 29-32 in their math worktext. For page 31: Use the
+  graphic at the top of the page to act out different plans to put plants 
+ in the picnic area. Create word problems such as- If DQ wants to put 5 fl
+ ower pots along the fence and Liam wants to put 1 pot near the picnic tab
+ le. How many will they need in all? You can use any object to represent t
+ he pots or have your student draw them. Complete p. 1 in Math Fact Review
+  Folder We will be starting Fact Reviews this week. You will find this ye
+ llow folder in their backpacks. The objective of the math fact reviews is
+  to master/memorize simple math facts in order to solidify the student's 
+ foundation of math\, making other skills easier and quicker. Instructions
+  for Fact Review Pages: Give your student 2 minutes to complete all 20 ma
+ th facts on the page. When the timer goes off-circle the facts that are i
+ ncomplete or incorrect. Then have your student go back and complete the c
+ ircled facts. This helps me understand and assess their growth. We will t
+ urn in the Math Fact Folders once a term for a grade. In addition to the 
+ reviews done at home\, we will do Math Fact Reviews in class using this s
+ ame method and your student will receive a grade. Guide completion of Dai
+ ly Math Week 4 day 2.\n\nComplete p. 29-32 in their math worktext. For pa
+ ge 31: Use the graphic at the top of the page to act out different plans 
+ to put plants in the picnic area. Create word problems such as- If DQ wan
+ ts to put 5 flower pots along the fence and Liam wants to put 1 pot near 
+ the picnic table. How many will they need in all? You can use any object 
+ to represent the pots or have your student draw them. Complete p. 1 in Ma
+ th Fact Review Folder We will be starting Fact Reviews this week. You wil
+ l find this yellow folder in their backpacks. The objective of the math f
+ act reviews is to master/memorize simple math facts in order to solidify 
+ the student's foundation of math\, making other skills easier and quicker
+ . Instructions for Fact Review Pages: Give your student 2 minutes to comp
+ lete all 20 math facts on the page. When the timer goes off-circle the fa
+ cts that are incomplete or incorrect. Then have your student go back and 
+ complete the circled facts. This helps me understand and assess their gro
+ wth. We will turn in the Math Fact Folders once a term for a grade. In ad
+ dition to the reviews done at home\, we will do Math Fact Reviews in clas
+ s using this same method and your student will receive a grade. Guide com
+ pletion of Daily Math Week 4 day 2.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:HW265905-2026-09-04-lilyanne@facts-split
+DTSTAMP:20260806T002149Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Math — Complete Math p. 33-36 and Math Fact Review p. 2. Complet
+ e Daily ...
+DESCRIPTION:Complete Math p. 33-36 and Math Fact Review p. 2. Complete Dai
+ ly Math Week 4 day 4.\n\nComplete Math p. 33-36 and Math Fact Review p. 2
+ . Complete Daily Math Week 4 day 4.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-20260818-testmathch1dailymath-lilyanne@facts-split
+DTSTAMP:20260806T002448Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:TEST: Math Ch. 1 + Daily Math due
+DESCRIPTION:In-class Math Chapter 1 test today. Daily Math (Days 2 & 4 don
+ e at home) due for a test grade. Referenced in 8/12\, 8/14\, and 8/17 hom
+ ework.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-20260820-dueallaboutmebannerp-lilyanne@facts-split
+DTSTAMP:20260806T002448Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:DUE: 'All About Me' banner (Phonics test grade)
+DESCRIPTION:First Phonics test grade. Graded on creativity\, neatness\, co
+ mpleteness. Assigned 8/14.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-20260825-testsciencech1inclas-lilyanne@facts-split
+DTSTAMP:20260806T002448Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:TEST: Science Ch. 1 (in class)
+DESCRIPTION:Inferred date: review assigned Mon 8/24\, corrected test discu
+ ssed Wed 8/26 — test falls on the Tuesday class day. Teachers "Tuesday\
+ , August 26" is a date/day mismatch (8/26 is Wednesday).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-20260825-testspellinglist1inc-lilyanne@facts-split
+DTSTAMP:20260806T002448Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:TEST: Spelling List 1 (in class)
+DESCRIPTION:Inferred date: pre-test taken at home Mon 8/24\, List 2 begins
+  Wed 8/26. Format: word\, sentence\, word — student writes the word.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-20260827-testmathch2inclass-lilyanne@facts-split
+DTSTAMP:20260806T002448Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:TEST: Math Ch. 2 (in class)
+DESCRIPTION:Referenced in 8/24 and 8/26 homework ("Chapter 2 test is tomor
+ row"). Review pages 25-26 in worktext.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:deadline-20260827-sciencepretzelexperi-lilyanne@facts-split
+DTSTAMP:20260806T002448Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Science — pretzel experiment in class
+DESCRIPTION:Report any allergies/intolerances to the teacher beforehand (n
+ oted in 8/26 homework).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
